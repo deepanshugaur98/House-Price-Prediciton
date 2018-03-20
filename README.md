@@ -3,4 +3,5 @@ A kaggle project
 
 Click on this link to find the code
 
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels?sortBy=date&group=my&pageSize=20&competitionId=5407
+
+https://www.kaggle.com/deepanshugaur/machine-learning-model-house-price-prediction
